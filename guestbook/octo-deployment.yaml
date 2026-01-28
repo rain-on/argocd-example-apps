@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: octo
-        image: trentmohay/octo:latest
+        image: trentmohay/octo:MyNewTag
