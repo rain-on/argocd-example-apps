@@ -1,6 +1,6 @@
 service:
   type: LoadBalancer
 image:
-  repository: quay.io/argoprojlabs/argocd-e2e-container
+  repository: quay.io/argoprojlabs/argocd-e2e-container:0.3
   tag: 0.2
   pullPolicy: IfNotPresent
